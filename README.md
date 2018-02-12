@@ -26,3 +26,6 @@ Typically, one out of every five attempts will fail.
 Some S/F instances are more prone to the error than others.
 1. CS85
 2. CS65
+
+![Alt text](/images/deploy_status.png?raw=true "Deploy Status")
+![Alt text](/images/deploy_status_view_details.png?raw=true "Deploy Status View Details")
