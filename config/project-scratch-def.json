@@ -1,0 +1,7 @@
+{
+    "orgName": "Sage Limited",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
